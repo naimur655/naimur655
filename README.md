@@ -1,11 +1,11 @@
-### Hi there, I'm Naimur Rahman 👋 (@naimur655)
+### Hi there, I'm Naimur Rahman (@naimur655)
 
 I'm a passionate backend developer with a keen interest in crafting robust and efficient server-side applications. Currently, I'm diving deep into C# to expand my skills and stay updated with modern backend technologies.
 
-- 👀 **Interests:** Backend development, cloud computing, API design, and database management
-- 🌱 **Currently Learning:** C# and .NET framework
+-  **Interests:** Backend development, cloud computing, API design, and database management
+-  **Currently Learning:** C# and .NET framework
 - 💞️ **Looking to Collaborate On:** Open-source projects, backend development challenges, and innovative tech solutions
-- 📫 **How to Reach Me:**
+-  **How to Reach Me:**
   - [Facebook](https://www.facebook.com/naim4ur)
   - [LinkedIn](https://linkedin.com/in/rahman-mdnaimur)
 - 😄 **Pronouns:** He/Him
