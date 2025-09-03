@@ -2,9 +2,9 @@
 
 I'm a passionate backend developer with a keen interest in crafting robust and efficient server-side applications. Currently, I'm diving deep into C# to expand my skills and stay updated with modern backend technologies.
 
--  **Interests:** Backend development, cloud computing, API design, and database management
+-  **Interests:** Backend development,  and database management
 -  **Currently Learning:** C# and .NET framework
-- 💞️ **Looking to Collaborate On:** Open-source projects, backend development challenges, and innovative tech solutions
+-  **Looking to Collaborate On:** Open-source projects, backend development challenges, and innovative tech solutions
 -  **How to Reach Me:**
   - [Facebook](https://www.facebook.com/naim4ur)
   - [LinkedIn](https://linkedin.com/in/rahman-mdnaimur)
